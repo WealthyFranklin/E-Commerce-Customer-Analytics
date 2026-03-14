@@ -1,0 +1,5 @@
+value_tier,num_customers,churned_count,churn_rate,total_revenue,avg_revenue,churn_rate_pct
+Low Value,1085,440,0.41,194437.49,179.21,41.0
+Medium Value,1084,282,0.26,503529.45,464.51,26.0
+High Value,1084,105,0.1,1161895.31,1071.86,10.0
+VIP,1085,31,0.03,7051545.65,6499.12,3.0
